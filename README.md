@@ -2,8 +2,8 @@
 A chat application for Android 
 
 ### Technology 
-Android
-Kotlin
-Firebase
-FirebaseAuth
-FirebaseDatabase
+- Android
+- Kotlin
+- Firebase
+- FirebaseAuth
+- FirebaseDatabase
